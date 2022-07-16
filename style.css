@@ -1,0 +1,145 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background: linear-gradient(rgba(217, 217, 217, 0),
+        rgb(43, 28, 28)), url(images/sylhet-online-qurbanir-haat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh ;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-bottom: 8%;
+}
+.div1{
+    padding: 200px;
+}
+.div2{
+    text-decoration: none;
+    background-image:linear-gradient(red, tomato);
+    padding:10px;
+    color: white;
+    border-radius: 10px;
+    
+}
+.div3 {
+    display: flex;
+    margin: 0% 10%;
+    font-size:  20px;
+        
+}
+iframe{
+    border-radius: 10px;
+}
+.div4{
+    display: flex;
+    margin: 5% 10%;
+    font-size: 20px;
+}
+
+.div4 img{
+    border-radius: 10px;
+    width: 60%;
+}
+.div5{
+    text-align: center;
+    margin: 5% 0 5%;
+    font-size: 20px;
+}
+.div6{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    height: 200px;
+    grid-gap: 10px;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 10%;
+    
+}
+.div7{
+    border: 1px white;
+    background-color: rgb(226, 225, 225);
+    background-image: url(images/education.png);
+    background-repeat: no-repeat;
+    padding: 60px;
+    box-shadow: 1px 5px 5px gray;
+    border-radius: 10px;
+    
+}
+.div8{
+    display:grid;
+    grid-template-columns: 300px 300px 300px;
+    position: relative;
+    justify-content: center;
+    grid-gap: 0 5px;
+    margin-bottom: 15%;
+    
+  
+}
+.div8 img{
+    margin-top: 120%;
+    
+    width: 300px;
+    height: 50%;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px gray;
+}
+
+.div10{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.div11 img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.div11{
+    width: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 2px 4px 30px gray;
+    
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.div12{
+    height: 150px;
+    padding: 5px 5px;
+}
+.div13{
+    color: red;
+    font-weight: 700;
+}
+.div14{
+    text-align: center;
+    margin-bottom: 5%;
+
+}
+.div14 h1{
+    font-size: 50px;
+}
+.div14 p {
+font-size: 25px;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(24, 24, 46);
+    text-align: center;
+    margin-top: ;
+}
+.div15 h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: chocolate;
+}
+.div15{
+    padding: 40px 0 0;
+    color: aliceblue;
+}
+
+    
